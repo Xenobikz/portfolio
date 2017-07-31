@@ -10,11 +10,7 @@
 <li>I am Filipino</li>
 <li>I am 15 years old and will be turning 16 on August 16</li>
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>What Can JavaScript Do?</h2>
+<h2>Biography</h2>
 
 <p id="demo">JavaScript can change HTML content.</p>
 
